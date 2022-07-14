@@ -1,0 +1,68 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "task": "Learn React.JS",
+      "date": "2022-07-14T11:07:06.878Z",
+      "verified": false
+    },
+    {
+      "id": 2,
+      "task": "Learn React.JS",
+      "date": "2022-07-14T11:07:06.878Z",
+      "verified": false
+    },
+    {
+      "id": 3,
+      "task": "Learn React.JS",
+      "date": "2022-07-14T11:07:10.383Z",
+      "verified": false
+    },
+    {
+      "id": 4,
+      "task": "Learn React.JS",
+      "date": "2022-07-14T11:07:10.383Z",
+      "verified": false
+    },
+    {
+      "id": 5,
+      "task": "Learn React.JS",
+      "date": "2022-07-14T11:07:28.077Z",
+      "verified": false
+    },
+    {
+      "id": 6,
+      "task": "Learn React.JS",
+      "date": "2022-07-14T11:07:28.077Z",
+      "verified": false
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Rahul Rathor",
+      "mobile": 9627070757,
+      "email": "rahulrathor@gmail.com",
+      "password": "12345",
+      "registerToken": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEiLCJlbWFpbCI6InJhaHVscmF0aG9yQGdtYWlsLmNvbSIsImlhdCI6MTY1Nzc0MzI3MX0.-2GM0OG10x5a3SawYKIuQWuZ12cVkzckzE8mzRKH4M0"
+      ],
+      "loginToken": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEiLCJlbWFpbCI6InJhaHVscmF0aG9yQGdtYWlsLmNvbSIsImlhdCI6MTY1Nzc0NzY1MX0.NSm4lnW8BEnlr2NJ3djoMWEcm98PVUslRjHaD_N-zzQ"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Admin 1",
+      "mobile": 1234567891,
+      "email": "admin1@gmail.com",
+      "password": "12345",
+      "registerToken": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIiLCJlbWFpbCI6ImFkbWluMUBnbWFpbC5jb20iLCJpYXQiOjE2NTc3NDQwMTl9.Bu5xgFxKkYRiF1SrlwvP6xYfOmJ1X1IxnsBcnQZOyPM"
+      ],
+      "loginToken": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIiLCJlbWFpbCI6ImFkbWluMUBnbWFpbC5jb20iLCJpYXQiOjE2NTc3NDQwODd9.EX22eISeHv1-M29CITloJw1Edvw6Wdy6WIl-GLoLBhc"
+      ]
+    }
+  ]
+}
